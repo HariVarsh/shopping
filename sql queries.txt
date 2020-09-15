@@ -1,0 +1,7 @@
+add product (book) 
+
+insert into product values ("book",1,100,"jungle book","","","","rudhyard kipling","adventure","i dont know");
+
+add product (apparel)
+
+insert into product values ("apparal",2,200,"tube light","phillips","china made","tube","","","");
